@@ -23,10 +23,10 @@ A Telegram bot for managing attack requests with admin approval system, MongoDB 
 Create a `.env` file in the root directory with the following variables:
 
 ```env
-BOT_TOKEN=your_telegram_bot_token_here
-MONGODB_URI=your_mongodb_connection_string
-DATABASE_NAME=my_database
+BOT_TOKEN=8597609771:AAFx6QhB_feM-5-WwAeXEVLz8--cPn2LDlg
+MONGODB_URI=mongodb+srv://bashabashaa9049_db_user:<L1HZpqxIk7io2HB5>@bashaapio.vvml1qb.mongodb.net/?appName=Bashaapio
+DATABASE_NAME=bashabashaa9049_db_use
 API_URL=https://your-api-domain.com
 API_KEY=your_api_key_here
-ADMIN_IDS=123456789,987654321
+ADMIN_IDS=1219524068
 ```
